@@ -67,30 +67,14 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
   <h2>Links</h2>
   <a href="https://www.linkedin.com/in/klayton-jr/"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" width="40px"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@klaytonjrr"><img src="https://rotony.com.br/wp-content/uploads/2021/09/free-youtube-logo-icon-2431-thumb.png" width="50px"></a>
+<!--   <a href="https://www.youtube.com/@klaytonjrr"><img src="https://rotony.com.br/wp-content/uploads/2021/09/free-youtube-logo-icon-2431-thumb.png" width="50px"></a> -->
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rzendeee/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" width="40px"></a>
+  <a href="https://www.instagram.com/rzendeee/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" width="40px"></a>
 </div>
 
 &nbsp;&nbsp;&nbsp;
 
-![](https://komarev.com/ghpvc/?username=KlaytonJR&color=green&style=flat-square)
-
-
-<!--
-**KlaytonJr/KlaytonJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=alerezendesp&color=green&style=flat-square)
 
 <!--
 **alerezendesp/alerezendesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
