@@ -69,7 +69,7 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@klaytonjrr"><img src="https://rotony.com.br/wp-content/uploads/2021/09/free-youtube-logo-icon-2431-thumb.png" width="50px"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rzendeee/" target=_blank><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" width="40px"></a>
+  <a href="https://www.instagram.com/rzendeee/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" width="40px"></a>
 </div>
 
 &nbsp;&nbsp;&nbsp;
