@@ -29,7 +29,7 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
   </div>
 
   <div>
-    🖥 Frameworks:
+    🖥 Libraries & Frameworks:
     - Node.js
     - React JS
   </div>
