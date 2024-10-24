@@ -1,5 +1,5 @@
 <div align="center">
-  <h1"><img height="30px" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Hi.gif"> Olá, sou o Max!</h1>
+  <h1><img height="30px" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Hi.gif"> Hi, i am Gustavo Rezende!</h1>
 </div>
 
 :us:
