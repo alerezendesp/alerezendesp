@@ -3,10 +3,10 @@
 </div>
 
 :us:
-I'm a Full-stack Development student living in Brazil. I have experience in web projects and teamwork with JavaScript, HTML, CSS, Python and other modern technologies. And I have knowledge of React and Node.js.
+I'm a Full-stack Development student living in Brazil. I have experience in web projects and teamwork with JavaScript, HTML, CSS and other modern technologies. And I have knowledge of React and Node.js.
 
 :brazil:
-Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência em projetos web e trabalho em equipe com, JavaScript, HTML, CSS, Python e outras tecnologias modernas. E tenho conhecimento em React e Node.js.
+Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência em projetos web e trabalho em equipe utilizando JavaScript, HTML, CSS e outras tecnologias modernas. E tenho conhecimento em React e Node.js.
 
 <div style="display: flex;" align="center" justify="center">
 <!--   <img margin="10px"  src="https://camo.githubusercontent.com/8c5de8555e3687badff2e78d1fdca40796263b61fa6b27153cf12149af0568f3/68747470733a2f2f6d6175726963696f6d696b756c736b692e6769746875622e696f2f696d672f6c6f676f732f68746d6c2e706e67" width="60px"> -->
