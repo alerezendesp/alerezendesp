@@ -30,14 +30,14 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
   </div>
   
   <div>
-    👨🏼‍💻 Methodology and Others:
-    - Git
-    - GitHub
-    - Design Patterns
-    - Engenharia de prompts
-    - Machine Learning
-    - AWS services
-    - Hospedagens 
+    <h3>👨🏼‍💻 Methodology and Others:</h3>
+    <ul>
+      <li>GitHub</li>
+      <li>Engenharia de prompts</li>
+      <li>Machine Learning</li>
+      <li>AWS services</li>
+      <li>Hospedagens</li>
+    </ul>  
   </div>
 </div>
 
