@@ -18,15 +18,15 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
    <img width="8" />
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" height="50" alt="git logo"  />
    <img width="8" />
-   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
+<!--    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg" height="50" alt="sass logo"  /> -->
    <img width="8" />
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="50" alt="boostrap logo"  />
    <img width="8" />
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind logo"  />
    <img width="8" />
-   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="50" alt="tailwind logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="50" alt="react"  />
    <img width="8" />
-   <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a" height="50" alt="tailwind logo"  />
+<!--    <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a" height="50" alt="tailwind logo"  /> -->
   </div>
   
   <div>
