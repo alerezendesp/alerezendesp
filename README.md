@@ -44,7 +44,7 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
     <ul>
       <li>VScode</li>
       <li>Jupyter Notebook/Lab</li>
-      <li>Figma</li>
+<!--       <li>Figma</li> -->
       <li>Node.JS</li>
       <li>OpenAI API</li>
       <li>AWS Bedrock and API</li>
