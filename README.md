@@ -31,11 +31,22 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
   <div>
     <h3>👨🏼‍💻 Methodology and Others:</h3>
     <ul>
-      <li>GitHub</li>
+      <li>GitHub/GIt</li>
       <li>Engenharia de prompts</li>
       <li>Machine Learning</li>
-      <li>AWS services</li>
+      <li>AWS Code Whisperer</li>
       <li>Hospedagens</li>
+    </ul>  
+  </div>
+</div>
+  <div>
+    <h3>👨🏼‍💻 Tecnologies:</h3>
+    <ul>
+      <li>VScode</li>
+      <li>Jupyter Notebook/Lab</li>
+      <li>Figma</li>
+      <li>Node.JS</li>
+      <li>OpenAI API</li>
     </ul>  
   </div>
 </div>
