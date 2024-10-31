@@ -47,6 +47,7 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
       <li>Figma</li>
       <li>Node.JS</li>
       <li>OpenAI API</li>
+      <li>AWS Bedrock and API</li>
     </ul>  
   </div>
 </div>
