@@ -28,27 +28,32 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
    <img width="8" />
   </div>
   
+<div>
   <div>
     <h3>👨🏼‍💻 Methodology and Others:</h3>
-    <ul>
-      <li>GitHub/GIt</li>
+     <ul>
+      <li>GitHub/Git</li>
       <li>Engenharia de prompts</li>
       <li>Machine Learning</li>
       <li>AWS Code Whisperer</li>
       <li>Hospedagens</li>
     </ul>  
   </div>
-</div>
   <div>
     <h3>👨🏼‍💻 Tecnologies:</h3>
-    <ul>
-      <li>VScode</li>
-      <li>Jupyter Notebook/Lab</li>
+      <ul>
 <!--       <li>Figma</li> -->
-      <li>Node.JS</li>
-      <li>OpenAI API</li>
-      <li>AWS Bedrock and API</li>
-    </ul>  
+       <li>Node.JS</li>
+       <li>OpenAI API</li>
+       <li>LLM's Programming</li>
+       <li>AWS Bedrock and API's</li>
+      </ul>
+    <h3>👨🏼‍💻 Editors:</h3>
+      <ul>
+       <li>VScode and SublimeText</li>
+       <li>Jupyter Notebook/Lab</li>
+       <li>AWS SageMaker and AWS CLI</li>
+      </ul>
   </div>
 </div>
 
