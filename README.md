@@ -42,8 +42,9 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
   <div>
     <h3>👨🏼‍💻 Tecnologies:</h3>
       <ul>
-<!--       <li>Figma</li> -->
+       <li>Figma</li>
        <li>Node.JS</li>
+       <li>Style Components</li> 
        <li>OpenAI API</li>
        <li>LLM's Programming</li>
        <li>AWS Bedrock and API's</li>
