@@ -8,6 +8,8 @@ I'm a Full-stack Development student living in Brazil. I have experience in web 
 :brazil:
 Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência em projetos web e trabalho em equipe utilizando JavaScript, HTML, CSS e outras tecnologias modernas. E tenho conhecimento em React e Node.js.
 
+<p>Veja meu portfólio<a href="https://alerzendee.github.io/myOwnPortfolio/"> aqui</a> de forma mais prática e rápida.</p>
+
 <h3 align="left">Minha Stack</h3>
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
