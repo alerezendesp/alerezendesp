@@ -30,7 +30,7 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
    <img width="8" />
   </div>
   
-<div>
+<div style="display: flex;">
   <div>
     <h3>👨🏼‍💻 Methodology and Others:</h3>
      <ul>
