@@ -62,7 +62,7 @@ Sou estudante em Desenvolvimento Full-stack e moro no Brasil. Tenho experiência
 
 <div>
   <h2>Links</h2>
-  <a href="https://www.linkedin.com/in/gustavo-rezende-63527331b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" width="40px"></a>
+  <a href="https://www.linkedin.com/in/gustavo-rezende-5a838133b/"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" width="40px"></a>
   &nbsp;&nbsp;&nbsp;
 <!--   <a href="https://www.youtube.com/@klaytonjrr"><img src="https://rotony.com.br/wp-content/uploads/2021/09/free-youtube-logo-icon-2431-thumb.png" width="50px"></a> -->
   &nbsp;&nbsp;&nbsp;
